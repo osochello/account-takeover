@@ -1,0 +1,11 @@
+pip3 install about-time==4.2.1
+pip3 install alive-progress==3.1.5
+pip3 install beautifulsoup4==4.12.3
+pip3 install certifi==2024.2.2
+pip3 install charset-normalizer==3.3.2
+pip3 install colorama==0.4.6
+pip3 install grapheme==0.6.0
+pip3 install idna==3.6
+pip3 install requests==2.31.0
+pip3 install soupsieve==2.5
+pip3 install urllib3==2.2.0

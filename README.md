@@ -1,5 +1,5 @@
 # Account Take Over
-This is a Account Take Over that demonstrates how to create a README.md file for installation and usage instructions.
+Account takeover (ATO) refers to the unauthorized access and control of a user's account by an attacker. This can occur in various online platforms, including email accounts, social media, financial accounts, and more. The goal of an account takeover is typically to exploit the compromised account for personal gain.
 ![alt text](imgs/image.png)
 
 ## Table of Contents

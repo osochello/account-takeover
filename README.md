@@ -13,9 +13,9 @@ This is a Account Take Over that demonstrates how to create a README.md file for
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/osochello/account_takeover.git
+   git clone https://github.com/osochello/account-takeover.git
 
-   cd account_takeover/
+   cd account-takeover/
 #### Windows
 
 1. open cmd terminal as Adminstartor
